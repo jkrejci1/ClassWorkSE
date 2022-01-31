@@ -15,7 +15,7 @@ a.hello:link, a.me:link, a.resume:link {
 }
 
 a.hello:visited, a.me:visited, a.resume:visited {
-    color: red;
+    color: green;
 }
 
 a.hello:hover, a.me:hover, a.resume:hover {
