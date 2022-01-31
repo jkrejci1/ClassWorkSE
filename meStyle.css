@@ -2,3 +2,10 @@ h1{
     color: mediumblue;
     text-align: center;
 }
+
+.portimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
