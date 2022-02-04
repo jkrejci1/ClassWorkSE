@@ -12,7 +12,12 @@ h1{
 }
 
 a.hello:link, a.me:link, a.resume:link {
+    text-align: center;
+    text-decoration: none;
     color: blue;
+    background-color: rgb(238, 240, 144);
+    padding: 14px 25px;
+    display:inline-block;
 }
 
 a.hello:visited, a.me:visited, a.resume:visited {
