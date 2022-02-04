@@ -7,8 +7,9 @@ h1{
 }
 
 .portimg {
+    top: -80%;
     display: block;
-    margin-left: 300px;
+    margin-left: 250px;
     margin-right: auto;
 
 }
